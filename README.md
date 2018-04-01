@@ -1,4 +1,5 @@
 ***This is no official repo.***
+
 ***For more detail please visit: https://bitcointalk.org/index.php?topic=2021765.0***
 
 # dstm's ZCash Cuda miner 
@@ -11,12 +12,16 @@ Contains 2% devfee.
 
 ## Performance:
 1080Ti 725-740 Sol/s
+
 1070   440-450 Sol/s
+
 stock settings
 
 ## UI:
 Here is a sample output mining on a rig with 7 GPUs.
+
 GPU0: 1080Ti
+
 GPU1 - GPU6: 1070
 
 ```
