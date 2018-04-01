@@ -126,9 +126,16 @@ Windows:
 Linux x64:
 https://github.com/Shm13/ZM-miner/releases/download/v0.6.0/zm-0.6.0.tar.gz
 
+Win x64:
+https://github.com/Shm13/ZM-miner/releases/download/v0.6.0/zm-0.6_win.zip
+
+
 ## Version 0.5.8
 con: add support for protocol v.01000020                                                                                      
 link openssl statically
 
 Linux x64:
 https://github.com/Shm13/ZM-miner/releases/download/v0.5.8/zm-0.5.8.tar.gz
+
+Win x64:
+https://github.com/Shm13/ZM-miner/releases/download/v0.6.0/zm-0.6_win.zip
